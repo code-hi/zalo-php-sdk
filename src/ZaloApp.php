@@ -14,7 +14,7 @@ use Zalo\Exceptions\ZaloSDKException;
  *
  * @package Zalo
  */
-class ZaloApp implements \Serializable
+class ZaloApp
 {
     /**
      * @var string The app ID.
